@@ -4,7 +4,7 @@
 
 
 **Overview of SARAS-Net:** 
-![image](https://github.com/f64051041/SARAS-Net/blob/main/image/model.jpg)
+![image](https://github.com/bohaoooooo/PCA-Net/blob/main/image/model_oil_spill.png)
 
 
 ## Requirements
