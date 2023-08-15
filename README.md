@@ -27,10 +27,10 @@ Then, run a demo to get started as follows:
 ```ruby
 python demo.py
 ```
-After that, you can find the prediction results in `SARAS-Net/samples/`
+After that, you can find the prediction results in `PCA-Net/ESA_SAR_output/`
 
 <div align = center>
-<img src="image/teaser.jpg" alt="Cover" width="50%"/> 
+<img src="image/teaser.png" alt="Cover" width="50%"/> 
 </div>
 
 
