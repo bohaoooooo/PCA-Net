@@ -1,5 +1,7 @@
 # PCA-Net: Patch-based Cross-scale Attention Network (PCA-Net) for Enhanced Ocean Oil Spill Detection in SAR Images
 
+**We will release implementation code upon paper acceptance.**
+
 **Target:** PCA-Net detects ocean oil spill regions in SAR images and produces detection and segmentation maps.
 
 
