@@ -4,11 +4,6 @@
 
 **Target:** PCA-Net detects ocean oil spill regions in SAR images and produces detection and segmentation maps.
 
-
-**Overview of SARAS-Net:** 
-![image](https://github.com/bohaoooooo/PCA-Net/blob/main/image/model_oil_spill.png)
-
-
 ## Requirements
 ```ruby
 cuda: 11.0  
